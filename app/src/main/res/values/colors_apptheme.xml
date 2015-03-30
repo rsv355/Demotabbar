@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="apptheme_color">#006fb1</color>
+
+
+    <color name="gray_color">#a0a0a0</color>
+    <color name="light_gray">#e5e5e5</color>
+    <color name="aqua">#009688</color>
+    <color name="greenTheme">#3c7933</color>
+    <color name="radio_button_selected_color">#3c7933</color>
+    <color name="radio_button_selected_color_blue">#006fb1</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="internet_unavailable_bg">#dbefff</color>
+    <color name="internet_unavailable_round_view">#c2ccd4</color>
+    <color name="music_table_section">#e78300</color>
+    <color name="script_table_view_cell">#ffebd0</color>
+    <color name="music_table_view_cell_first_color">#ffd692</color>
+    <color name="music_table_view_cell_second_color">#ffba4a</color>
+    <color name="read_play_cell">#d9e7f2</color>
+    <color name="ldrawer_color">#000000</color>
+</resources>
